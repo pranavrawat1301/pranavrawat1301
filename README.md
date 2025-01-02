@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Pranav Rawat
 
-I'm a Computer Science student with a fervor for machine learning, data science, and financial data analysis. 
-My focus areas include predictive modeling, deep learning, and natural language processing. 
+I'm a Computer Science student with a fervor for machine learning, data science, GenAI and MLOps. 
+My focus areas include predictive modeling, deep learning, natural language processing and GenAI. 
 I'm enthusiastic about applying my knowledge to real-world challenges and exploring opportunities at the exciting intersection of technology and finance.
 
 ## 🌱 Currently Learning
@@ -9,11 +9,14 @@ I'm enthusiastic about applying my knowledge to real-world challenges and explor
 - Exploring advanced techniques in predictive modeling.
 - Delving into deep learning architectures.
 - Enhancing skills in natural language processing.
+- Learning MLOps
 
 ## 👀 What I'm Interested In
 
 - Machine Learning
 - Data Science
+- GenAI
+- MLOps
 - Financial Data Analysis
 - Predictive Modeling
 - Deep Learning
